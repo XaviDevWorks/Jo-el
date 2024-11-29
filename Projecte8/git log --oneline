@@ -1,0 +1,13 @@
+[33mcommit 2686095f1c6bcaa38271bda14a8fd196fba34428[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Xavi <xavier.farrus@gracia.lasalle.cat>
+Date:   Mon Oct 7 08:48:54 2024 +0200
+
+    Es la primera versión
+
+ .gitignore        | 29 [32m+++++++++++++++++++++++++++++[m
+ .idea/.gitignore  |  3 [32m+++[m
+ .idea/misc.xml    |  6 [32m++++++[m
+ .idea/modules.xml |  8 [32m++++++++[m
+ Projecte8.iml     | 11 [32m+++++++++++[m
+ src/Main.java     | 19 [32m+++++++++++++++++++[m
+ 6 files changed, 76 insertions(+)
